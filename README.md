@@ -1,2 +1,5 @@
 # Joann-Saeou
-to use for updating/editing readme file for overview page
+
+
+###### Heyyy there! 
+## I'm Joann or Ting Ting!
